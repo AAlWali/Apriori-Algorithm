@@ -1,7 +1,7 @@
 # Apriori-Algorithm Implementation In Python
 Describing in details the importance of Apriori algorithm along with technical implementation of the algorithm itself
 
-# In project implementation, we divide code over 3 files:
+## In project implementation, we divide code over 3 files:
 
 	1. Config.py
 It consists of three sections:
@@ -47,5 +47,5 @@ To take User inputs and combine functions together:
 
 •	Then calling four functions (data_extract, return_last_lvl_values, make_rules_and_prioritize, DataFrame_to_HTML) respectively.
 
-# Demo video
+## Demo video
 https://youtu.be/8zoyAgUuWfo
